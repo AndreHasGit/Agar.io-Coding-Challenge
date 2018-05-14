@@ -1,2 +1,2 @@
 # Agar.io-Coding-Challenge
-The group summative. John, Nesa, Andrew
+The group summative. Jon, Nesa, Andrew
